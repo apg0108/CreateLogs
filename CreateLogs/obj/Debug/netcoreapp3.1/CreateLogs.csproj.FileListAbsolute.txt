@@ -1,0 +1,11 @@
+D:\Proyectos\CreateLogs\CreateLogs\bin\Debug\netcoreapp3.1\CreateLogs.exe
+D:\Proyectos\CreateLogs\CreateLogs\bin\Debug\netcoreapp3.1\CreateLogs.deps.json
+D:\Proyectos\CreateLogs\CreateLogs\bin\Debug\netcoreapp3.1\CreateLogs.runtimeconfig.json
+D:\Proyectos\CreateLogs\CreateLogs\bin\Debug\netcoreapp3.1\CreateLogs.runtimeconfig.dev.json
+D:\Proyectos\CreateLogs\CreateLogs\bin\Debug\netcoreapp3.1\CreateLogs.dll
+D:\Proyectos\CreateLogs\CreateLogs\bin\Debug\netcoreapp3.1\CreateLogs.pdb
+D:\Proyectos\CreateLogs\CreateLogs\obj\Debug\netcoreapp3.1\CreateLogs.csprojAssemblyReference.cache
+D:\Proyectos\CreateLogs\CreateLogs\obj\Debug\netcoreapp3.1\CreateLogs.AssemblyInfoInputs.cache
+D:\Proyectos\CreateLogs\CreateLogs\obj\Debug\netcoreapp3.1\CreateLogs.AssemblyInfo.cs
+D:\Proyectos\CreateLogs\CreateLogs\obj\Debug\netcoreapp3.1\CreateLogs.dll
+D:\Proyectos\CreateLogs\CreateLogs\obj\Debug\netcoreapp3.1\CreateLogs.pdb
