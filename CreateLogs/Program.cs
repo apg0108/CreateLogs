@@ -15,6 +15,7 @@ namespace CreateLogs
         static void Main(string[] args)
         {
             string pathLogs = "D:/Logs/log.json";
+            string folderPath = "D:/Logs";
             string characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
             int timeToSleep = 5000;
             string[] typeMessage = { "Info", "Warning", "Error" };
@@ -22,6 +23,8 @@ namespace CreateLogs
             Log log = new Log();
             string texto = String.Empty;
             int i = 1;
+            if (!Directory.Exists(folderPath))
+                Directory.CreateDirectory(folderPath);
             while (true)
             {
                 log.Message = String.Empty;
